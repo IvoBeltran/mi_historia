@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(178, 206, 161);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding: 50px;
+    box-sizing: border-box;
+
+}
+
+ul{
+    text-align: left;
+}
